@@ -1,0 +1,4 @@
+requests
+openai
+anthropic
+python-dotenv

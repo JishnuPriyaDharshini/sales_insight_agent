@@ -1,0 +1,4 @@
+# Ignore environment and cache files
+.env
+__pycache__/
+cache_sales.json
