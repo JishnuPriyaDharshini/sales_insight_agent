@@ -14,6 +14,10 @@ This is a command-line agent that answers natural-language questions about sales
 ---
 
 ## Setup Instructions
-1. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
+
+### 1️⃣ Clone the project
+```bash
+git clone https://github.com/JishnuPriyaDharshini/sales_insight_agent.git
+cd sales_insight_agent
+
+ 
